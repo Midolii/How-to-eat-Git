@@ -1,5 +1,7 @@
 # 个人Git食用文档
 
+[url](https://github.com/Midolii/How-to-eat-Git "本文地址")
+
 * 此文档为基础文档，不涉及分支的创建，切换以及合并
 * 可能会有一些遗漏的地方
 * 平台为windows，linux和mac平台配置相应过程基本没有区别
